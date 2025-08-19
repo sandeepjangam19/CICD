@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_cdltd_cicd_demo.CICD_demo_App</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>CICD demo App</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-19 09:07:55</sys_created_on>
+        <sys_id>f57d2ec8832322107f44b1c7beda1eaf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_cicd_demo.CICD_demo_App</sys_name>
+        <sys_package display_value="CICD Demo App" source="x_cdltd_cicd_demo">a0aca648832322107f44b1c7beda1ea6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CICD Demo App">a0aca648832322107f44b1c7beda1ea6</sys_scope>
+        <sys_update_name>sys_alias_f57d2ec8832322107f44b1c7beda1eaf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-19 09:07:55</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CICD Demo App">a0aca648832322107f44b1c7beda1ea6</application>
+        <file_path/>
+        <instance_id>51a0a7ee971baa109a1134c11153afb1</instance_id>
+        <instance_name>nowlearning-nlinst03165172-25vdt-dev-0001</instance_name>
+        <name>sys_alias_f57d2ec8832322107f44b1c7beda1eaf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_cdltd_cicd_demo.CICD_demo_App</id><is_internal>false</is_internal><multiple_connections>false</multiple_connections><name>CICD demo App</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-19 09:07:55</sys_created_on><sys_id>f57d2ec8832322107f44b1c7beda1eaf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_cicd_demo.CICD_demo_App</sys_name><sys_package display_value="CICD Demo App" source="x_cdltd_cicd_demo">a0aca648832322107f44b1c7beda1ea6</sys_package><sys_policy/><sys_scope display_value="CICD Demo App">a0aca648832322107f44b1c7beda1ea6</sys_scope><sys_update_name>sys_alias_f57d2ec8832322107f44b1c7beda1eaf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-19 09:07:55</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>-1646261201</payload_hash>
+        <record_name>x_cdltd_cicd_demo.CICD_demo_App</record_name>
+        <reverted_from/>
+        <source>a4aca648832322107f44b1c7beda1ea8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-19 09:07:55</sys_created_on>
+        <sys_id>068d264c832322107f44b1c7beda1ecb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198c195c8750000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-19 09:07:55</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>4a8d264c5b232210a4533aecc72d69ca</update_guid>
+        <update_guid_history>4a8d264c5b232210a4533aecc72d69ca:-1646261201</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-19 09:24:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>334b9b529c4e4f188be3aed0368ed8b1</sys_id>
+        <sys_metadata>f57d2ec8832322107f44b1c7beda1eaf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_cicd_demo.CICD_demo_App</sys_name>
+        <sys_package display_value="CICD Demo App" source="x_cdltd_cicd_demo">a0aca648832322107f44b1c7beda1ea6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CICD Demo App">a0aca648832322107f44b1c7beda1ea6</sys_scope>
+        <sys_scope_delete display_value="">746f3009f8f94c359940461c8b8fb191</sys_scope_delete>
+        <sys_update_name>sys_alias_f57d2ec8832322107f44b1c7beda1eaf</sys_update_name>
+        <sys_update_version display_value="sys_alias_f57d2ec8832322107f44b1c7beda1eaf">068d264c832322107f44b1c7beda1ecb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-19 09:24:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
