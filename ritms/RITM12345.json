@@ -1,0 +1,5 @@
+{
+  "short_description": "Test incident from Postman",
+  "urgency": "2",
+  "impact": "2"
+}
